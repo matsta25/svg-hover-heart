@@ -15,7 +15,9 @@ svg {
     width: 500px;
     align-self: center;
     justify-self: center;
-    /* margin-left: 500px; */
+    margin-left: -100px;
+    margin: auto;
+
 }
 
 svg:hover #Layer_2 {
